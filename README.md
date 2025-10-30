@@ -32,6 +32,11 @@
 - TEXT_IMAGE: Image generation endpoint 
 - IMAGE_VIDEO: Video processing service
 
+### Demo Video
+<p align="center">
+  <video src="final_output.mp4" width="640" height="360" controls></video>
+</p>
+
 ## Dependencies
 ```bash
 pip install requests soundfile python-dotenv numpy Pillow kokoro
