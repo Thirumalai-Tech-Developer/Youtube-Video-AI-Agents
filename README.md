@@ -34,7 +34,7 @@
 
 ## Demo Video
 <p align="center">
-  <video src="./final_output.mp4" width="640" height="360" controls></video>
+  <video src="https://github.com/user-attachments/assets/8cdd5353-7f88-4d1e-8c11-5eb9fd38a664" width="640" height="360" controls></video>
 </p>
 
 ## Dependencies
