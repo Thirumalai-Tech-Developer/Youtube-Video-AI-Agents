@@ -34,7 +34,7 @@
 
 ## Demo Video
 <p align="center">
-  <video src="final_output.mp4" width="640" height="360" controls></video>
+  <video src="./final_output.mp4" width="640" height="360" controls></video>
 </p>
 
 ## Dependencies
